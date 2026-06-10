@@ -1,2 +1,12 @@
-# Kashmiri-Apple-Leaf-disease-Detection-
-🧠 NeuroScan AI-An advanced web application for detecting and classifying brain tumors in MRI scans using MobileNetV2 deep learning architecture with Grad-CAM explainability. Features include multi-class classification interactive heatmaps, PDF reports, user authentication, and analytics dashboard.
+---
+title: Apple Leaf Disease
+emoji: 🌖
+colorFrom: yellow
+colorTo: indigo
+sdk: docker
+pinned: false
+license: mit
+short_description: apple-leaf-disease
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
